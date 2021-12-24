@@ -16,12 +16,12 @@ Summarize dataset:
 
 Tools used:
 
-- Python
-- Pandas
-- Sklearn
-- Matplotlib
-- Seaborn
-- Numpy
-- Streamlit
-- Heroku
+- Sklearn (Random Forest)
+- Pandas (Data vizualization)
+- Numpy (Scientific computing)
+- Seaborn (Data visualization)
+- Matplotlib (Graphics and data vizualization)
+- Docker (package apps in containers)
+- Kubernetes (Kubernetes is a container orchestration system for Docker containers)
+- Heroku (deploy)
 
