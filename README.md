@@ -2,6 +2,13 @@
 
 [APP] link:https://appcomputerpriceprediction.herokuapp.com/
 
+Computer price predition with Random Forest deploying using FLASK and HEROKU
+
+A Random Forest is a supervised machine learning algorithm used in modeling predictions and behavior analysis. Random Forest is constructed from decision tree algorithms.
+
+The decision tree builds classification or regression models in the form of a tree structure.
+
+
 Summarize dataset:
 - price: The Price of the computer
 - speed: The speed
