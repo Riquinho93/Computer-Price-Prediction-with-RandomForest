@@ -1,17 +1,17 @@
 # Computer Price Prediction with RandomForest
 
-[APP] link:https://appcomputerpriceprediction.herokuapp.com/
+📱 [APP] link:https://appcomputerpriceprediction.herokuapp.com/
 
 ![Computer](https://github.com/Riquinho93/Computer-Price-Prediction-with-RandomForest/blob/main/assets/computer.jpg)
 
 Computer price predition with Random Forest deploying using FLASK and HEROKU
 
-A Random Forest is a supervised machine learning algorithm used in modeling predictions and behavior analysis. Random Forest is constructed from decision tree algorithms.
+📚 A Random Forest is a supervised machine learning algorithm used in modeling predictions and behavior analysis. Random Forest is constructed from decision tree algorithms.
 
-The decision tree builds classification or regression models in the form of a tree structure.
+📚 The decision tree builds classification or regression models in the form of a tree structure.
 
 
-Summarize dataset:
+📋 Summarize dataset:
 - price: The Price of the computer
 - speed: The speed
 - hd: How much hard drive is present
@@ -23,7 +23,7 @@ Summarize dataset:
 - ads: The ads value of the computer
 - trend: The trend value of the computer
 
-Tools used:
+👨‍💻 Tools used:
 
 - Sklearn (Random Forest)
 - Pandas (Data vizualization)
