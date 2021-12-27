@@ -30,7 +30,8 @@ Computer price predition with Random Forest deploying using FLASK and HEROKU
 - Numpy (Scientific computing)
 - Seaborn (Data visualization)
 - Matplotlib (Graphics and data vizualization)
-- Docker (package apps in containers)
+- Docker (package apps in containers) 
 - Kubernetes (Kubernetes is a container orchestration system for Docker containers)
+-  FLASK (buld web app)
 - Heroku (deploy)
 
